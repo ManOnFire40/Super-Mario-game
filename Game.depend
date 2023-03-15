@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1669361198 source:c:\users\ayman\cb projects\game\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<Windows.h>
+	"conio.h"
+	"Champion.h"
+	"Map.h"
+	"Point.h"
+	"game.h"
+
+1669336758 source:c:\users\ayman\cb projects\game\src\champion.cpp
+	"Champion.h"
+
+1669354930 c:\users\ayman\cb projects\game\include\champion.h
+	<iostream>
+	"Point.h"
+	"Map.h"
+
+1669336871 c:\users\ayman\cb projects\game\include\point.h
+
+1669336871 c:\users\ayman\cb projects\game\include\map.h
+
+1669354930 c:\users\ayman\cb projects\game\include\game.h
+	"champion.h"
+	"Map.h"
+
